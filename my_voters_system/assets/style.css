@@ -1,0 +1,30 @@
+body{
+    background-image: url("image/flower-g69e19052b_1920.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px;
+}
+.login-left{
+    background:darkgrey ;
+    padding: 30px;
+}
+.login-right{
+    background:white ;
+    padding: 30px;
+}
+.form-control{
+    background-color: transparent !important;
+}
+a{
+    color: green;
+    margin-top: -200px;
+    font-size: 16px;
+}
+.head{
+    margin-top: 250px;
+}
